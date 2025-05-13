@@ -1,0 +1,130 @@
+
+.header{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.main{
+    background-color: rgb(146, 48, 48);
+    margin-left: 6px;
+    display: flex;
+    padding-bottom: 80px;
+    clip-path: polygon(100% 0, 100% 90%, 92% 100%, 0 100%, 0 0);
+ 
+}
+.submission-heading{
+    margin-left: 150px;
+    padding-top: 230px;
+}
+.checkbox{
+  text-align: right;
+}
+ .text1{
+    margin-top: 5px;
+ }
+.h1{
+    color: white;
+    font-size: 90px;
+    font-weight: bolder;
+}
+.p1{
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.form-1{
+    margin-top: 50px;
+    margin-left: 200px;
+    display: flex;
+    flex-direction: column;
+    row-gap: px;
+    box-sizing:border-box;
+    /* justify-content: space-evenly; */
+}
+.input-field{
+    width: 435px;
+    height: 50px;
+    text-decoration: white;
+    background-color: rgb(146, 48, 48);
+    color: white;
+     border: 2px solid #ffffff;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: white;
+  opacity: 1; 
+}
+
+.h2{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 20px;
+    font-size: 28px;
+}
+.text{
+    font-size: 12px;
+    color: white;
+}
+.box{
+    margin-top: 13px;
+    display: flex;
+    justify-content:space-evenly;
+    margin-left: 50px;
+
+}
+.input-box{
+     margin-top: 10px;
+    margin-left: 200px;
+    display: flex;
+    flex-direction: column;
+    box-sizing:border-box;
+}
+ .checkbox1{
+    display: flex;
+    justify-content: space-between;
+    justify-content: left;
+    color: white;
+} 
+
+.input-field1{
+    width: 435px;
+    height: 75px;
+    text-decoration: white;
+    background-color: rgb(146, 48, 48);
+    color: white;
+     border: 2px solid #ffffff;
+}
+.submit{
+    height: 50px;
+    width: 400px;
+    margin-top: 30px;
+    margin-left: 200px;
+    font-weight: bolder;
+    font-size: 20px;
+
+    
+}
+/* SCRENN-2 */
+
+
+.header{
+    background-color: rgb(146, 48, 48);
+      margin-top: 1px;
+    margin-left: 1px;
+}
+.header-logo{
+    margin-left: 100px;
+}
+.red-card{
+        margin-left: 100px;
+        color: white;
+        font-weight: bolder;
+        font-size: 85px;
+        align-items: right;
+}
+.china{
+    margin-left: 100px;
+        color: rgb(0, 0, 0);
+        font-weight: bolder;
+        font-size: 45px;
+}
