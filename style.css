@@ -15,15 +15,26 @@
     margin-left: 150px;
     padding-top: 230px;
 }
+
+.checkbox-01{
+    font-size:6px;
+     margin-left: 400px;
+}
+
+.checkbox-02{
+    margin-left: 380px;
+        font-size:6px;
+}
 .checkbox{
-  text-align: right;
+            font-size:7px;
+
 }
  .text1{
     margin-top: 5px;
  }
 .h1{
     color: white;
-    font-size: 90px;
+    font-size: 82px;
     font-weight: bolder;
 }
 .p1{
@@ -51,7 +62,7 @@
 input::placeholder,
 textarea::placeholder {
   color: white;
-  opacity: 1; 
+  /* opacity: ;  */
 }
 
 .h2{
@@ -65,25 +76,29 @@ textarea::placeholder {
     color: white;
 }
 .box{
-    margin-top: 13px;
-    display: flex;
-    justify-content:space-evenly;
-    margin-left: 50px;
-
-}
-.input-box{
-     margin-top: 10px;
-    margin-left: 200px;
-    display: flex;
-    flex-direction: column;
-    box-sizing:border-box;
-}
- .checkbox1{
+    margin-top: 12px;
     display: flex;
     justify-content: space-between;
-    justify-content: left;
+    margin-left: 190px;
+}
+ .checkbox1{
+    margin-left: 5px;
     color: white;
 } 
+.checkbox03{
+  accent-color: rgb(146, 48, 48);
+  opacity: 40%;
+}
+.checkbox11{
+    margin-right: 180px;
+;
+}
+
+.input-box{
+     margin-top: 12px;
+    margin-left: 200px;
+}
+
 
 .input-field1{
     width: 435px;
@@ -104,6 +119,8 @@ textarea::placeholder {
     text-decoration: none;
     color: black;
 }
+
+
 
 
 /* SCRENN-2 */
